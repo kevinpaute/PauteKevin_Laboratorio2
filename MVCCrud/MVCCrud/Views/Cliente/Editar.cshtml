@@ -1,0 +1,62 @@
+﻿<!--recibir el modelo-->
+@model  MVCCrud.Models.ViewModels.ClienteViewModel
+@{
+    ViewBag.Title = "Editar datos del cliente";
+}
+
+<h2>Editar</h2>
+
+@using (Html.BeginForm("Editar", "cliente", FormMethod.Post))
+{
+    <div class="row">
+        <div class="col-md-12">
+            @Html.HiddenFor(d => d.id_cli) <!--ID OCULTO-->
+            <div>
+                @Html.LabelFor(d => d.nombre_cli)
+                @Html.TextBoxFor(d => d.nombre_cli, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.nombre_cli, null, new { @class = "red" })
+            </div>
+
+            <div>
+                @Html.LabelFor(d => d.cedula_cli)
+                @Html.TextBoxFor(d => d.cedula_cli, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.cedula_cli, null, new { @class = "red" })
+            </div>
+
+
+            <div>
+                @Html.LabelFor(d => d.correo_cli)
+                @Html.TextBoxFor(d => d.correo_cli, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.correo_cli, null, new { @class = "red" })
+            </div>
+
+            <div>
+                @Html.LabelFor(d => d.fechaNacimiento) <br />
+                @Html.EditorFor(d => d.fechaNacimiento, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.fechaNacimiento, null, new { @class = "red" })
+            </div>
+            <br />
+            <br />
+            <div>
+                <input value="Actualizar" class="btn btn-primary" type="submit" />
+            </div>
+        </div>
+    </div>
+}
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+        $(function () {
+            $("#fechaNacimiento").datepicker({
+                dateFormat: 'yy-mm-dd',
+                changeMonth: true,
+                changeYear: true,
+                yearRange: '-100:+0'
+            });
+        });
+    </script>
+}

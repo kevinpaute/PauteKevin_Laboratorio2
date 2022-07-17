@@ -1,0 +1,71 @@
+﻿@model MVCCrud.Models.ViewModels.ClienteViewModel
+@{
+    ViewBag.Title = "Datos del Cliente";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("Nuevo", "cliente", FormMethod.Post))
+{
+    <div class="row">
+        <div class="col-md-12">
+            <div>
+                @Html.LabelFor(d => d.nombre_cli)
+                @Html.TextBoxFor(d => d.nombre_cli, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.nombre_cli, null, new { @class = "red" })
+            </div>
+
+            <div>
+                @Html.LabelFor(d => d.cedula_cli)
+                @Html.TextBoxFor(d => d.cedula_cli, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.cedula_cli, null, new { @class = "red" })
+            </div>
+
+
+            <div>
+                @Html.LabelFor(d => d.correo_cli)
+                @Html.TextBoxFor(d => d.correo_cli, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.correo_cli, null, new { @class = "red" })
+            </div>
+
+            <div>
+                @Html.LabelFor(d => d.fechaNacimiento) <br />
+                @Html.EditorFor(d => d.fechaNacimiento, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.fechaNacimiento, null, new { @class = "red" })
+            </div>
+            <br />
+            <br />
+            <div>
+                @Html.LabelFor(d => d.foto, htmlAttributes: new { @class = "control-label" })
+                <br />
+                <br />
+                <input type="file" name="imageload" />
+                <br />
+                <br />
+                @Html.ValidationMessageFor(d => d.foto, "", new { @class = "red" })
+            </div>
+            <br />
+            <br />
+            <div>
+                <input value="Guardar" class="btn btn-primary" type="submit" />
+            </div>
+        </div>
+    </div>
+}
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+        $(function () {
+            $("#fechaNacimiento").datepicker({
+                dateFormat: 'yy-mm-dd',
+                changeMonth: true,
+                changeYear: true,
+                yearRange: '-100:+0'
+            });
+        });
+    </script>
+}

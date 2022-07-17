@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="facturaModelStoreContainer" CdmEntityContainer="facturaEntities">
+    <EntitySetMapping Name="cliente">
+      <EntityTypeMapping TypeName="facturaModel.cliente">
+        <MappingFragment StoreEntitySet="cliente">
+          <ScalarProperty Name="foto" ColumnName="foto" />
+          <ScalarProperty Name="fechaNacimiento" ColumnName="fechaNacimiento" />
+          <ScalarProperty Name="correo_cli" ColumnName="correo_cli" />
+          <ScalarProperty Name="cedula_cli" ColumnName="cedula_cli" />
+          <ScalarProperty Name="nombre_cli" ColumnName="nombre_cli" />
+          <ScalarProperty Name="id_cli" ColumnName="id_cli" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

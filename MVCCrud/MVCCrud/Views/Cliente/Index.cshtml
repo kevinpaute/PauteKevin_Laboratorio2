@@ -1,0 +1,56 @@
+﻿@model List<MVCCrud.Models.ViewModels.ListClienteViewModel>
+@{
+    ViewBag.Title = "Clientes";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div class="row">
+    <div class="col-md-12">
+
+        <div class="row" style="text-align:right; padding:10px">
+            <a href="~/Cliente/Nuevo" class="btn btn-primary">Agregar</a>
+        </div>
+
+        <table class="table">
+            <tr>
+                <th>#</th>
+                <th>Nombre</th>
+                <th>Cedula</th>
+                <th>Correo</th>
+            </tr>
+            @foreach (var oElemento in Model)
+            {
+                <tr>
+                    <td>@oElemento.id_cli</td>
+                    <td>@oElemento.nombre_cli</td>
+                    <td>@oElemento.cedula_cli</td>
+                    <td>@oElemento.correo_cli</td>
+                    
+                    <td>
+                        <a class="btn btn-default" href="@Url.Action("Editar", "Cliente", new {id=@oElemento.id_cli})">Editar</a>
+                        <a class="btn btn-danger" href="@Url.Action("Eliminar", "Cliente", new {id=@oElemento.id_cli})" onclick = "return smsConfirmacion()">
+                        Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
+
+
+<script>
+    function smsConfirmacion() {
+        if (confirm("¿Esta seguro de eliminar este registro?") == true) {
+            return true;
+            } else {
+                return false;
+            }
+         }
+</script>      
+
+
+
+
+
+

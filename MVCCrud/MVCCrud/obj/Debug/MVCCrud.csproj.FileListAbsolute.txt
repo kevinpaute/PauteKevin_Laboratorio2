@@ -1,0 +1,360 @@
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\MVCCrud.dll.config
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\MVCCrud.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\MVCCrud.pdb
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\csc.exe
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\csc.exe.config
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\csc.rsp
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\csi.exe
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\csi.exe.config
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\csi.rsp
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.AppContext.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Console.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.IO.Compression.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Net.Http.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.ValueTuple.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\vbc.exe
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\vbc.exe.config
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\vbc.rsp
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\VBCSCompiler.exe
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\Antlr3.Runtime.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\EntityFramework.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\EntityFramework.SqlServer.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\Newtonsoft.Json.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\System.Web.Helpers.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\System.Web.Mvc.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\System.Web.Optimization.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\System.Web.Razor.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\System.Web.WebPages.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\System.Web.WebPages.Razor.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\WebGrease.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\EntityFramework.xml
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\EntityFramework.SqlServer.xml
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\System.Web.Helpers.xml
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\System.Web.Mvc.xml
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\System.Web.Optimization.xml
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\System.Web.Razor.xml
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\System.Web.WebPages.xml
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\System.Web.WebPages.Razor.xml
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\Newtonsoft.Json.xml
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\Antlr3.Runtime.pdb
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\es\System.Web.Helpers.resources.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\es\System.Web.Mvc.resources.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\es\System.Web.Optimization.resources.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\es\System.Web.Razor.resources.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\es\System.Web.WebPages.resources.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.AssemblyReference.cache
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.CoreCompileInputs.cache
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.CopyComplete
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\obj\Debug\MVCCrud.dll
+C:\Users\cbeto\source\repos\MVCCrud\MVCCrud\obj\Debug\MVCCrud.pdb
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\MVCCrud.dll.config
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\MVCCrud.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\MVCCrud.pdb
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\csc.exe
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\csc.exe.config
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\csc.rsp
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\csi.exe
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\csi.exe.config
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\csi.rsp
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.AppContext.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Console.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.IO.Compression.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Net.Http.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.ValueTuple.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\vbc.exe
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\vbc.exe.config
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\vbc.rsp
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\VBCSCompiler.exe
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\Antlr3.Runtime.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\EntityFramework.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\EntityFramework.SqlServer.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\Newtonsoft.Json.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\System.Web.Helpers.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\System.Web.Mvc.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\System.Web.Optimization.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\System.Web.Razor.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\System.Web.WebPages.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\System.Web.WebPages.Razor.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\WebGrease.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\EntityFramework.xml
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\EntityFramework.SqlServer.xml
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\System.Web.Helpers.xml
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\System.Web.Mvc.xml
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\System.Web.Optimization.xml
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\System.Web.Razor.xml
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\System.Web.WebPages.xml
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\System.Web.WebPages.Razor.xml
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\Newtonsoft.Json.xml
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\Antlr3.Runtime.pdb
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\es\System.Web.Helpers.resources.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\es\System.Web.Mvc.resources.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\es\System.Web.Optimization.resources.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\es\System.Web.Razor.resources.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\es\System.Web.WebPages.resources.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.AssemblyReference.cache
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.CoreCompileInputs.cache
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.CopyComplete
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\obj\Debug\MVCCrud.dll
+C:\Users\FABIOLA\Desktop\DESARROLLO WEB\MVCCrud\MVCCrud\obj\Debug\MVCCrud.pdb
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\MVCCrud.dll.config
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\MVCCrud.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\MVCCrud.pdb
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\csc.exe
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\csc.exe.config
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\csc.rsp
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\csi.exe
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\csi.exe.config
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\csi.rsp
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.AppContext.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Console.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.IO.Compression.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Net.Http.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.ValueTuple.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\vbc.exe
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\vbc.exe.config
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\vbc.rsp
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\VBCSCompiler.exe
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\Antlr3.Runtime.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\EntityFramework.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\EntityFramework.SqlServer.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\Newtonsoft.Json.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\System.Web.Helpers.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\System.Web.Mvc.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\System.Web.Optimization.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\System.Web.Razor.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\System.Web.WebPages.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\System.Web.WebPages.Razor.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\WebGrease.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\EntityFramework.xml
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\EntityFramework.SqlServer.xml
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\System.Web.Helpers.xml
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\System.Web.Mvc.xml
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\System.Web.Optimization.xml
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\System.Web.Razor.xml
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\System.Web.WebPages.xml
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\System.Web.WebPages.Razor.xml
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\Newtonsoft.Json.xml
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\Antlr3.Runtime.pdb
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\es\System.Web.Helpers.resources.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\es\System.Web.Mvc.resources.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\es\System.Web.Optimization.resources.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\es\System.Web.Razor.resources.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\es\System.Web.WebPages.resources.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.AssemblyReference.cache
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.CoreCompileInputs.cache
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.CopyComplete
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\obj\Debug\MVCCrud.dll
+C:\Users\FABIOLA\source\repos\MVCCrud\MVCCrud\obj\Debug\MVCCrud.pdb
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\MVCCrud.dll.config
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\MVCCrud.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\MVCCrud.pdb
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\csc.exe
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\csc.exe.config
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\csc.rsp
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\csi.exe
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\csi.exe.config
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\csi.rsp
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.AppContext.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Console.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.IO.Compression.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Net.Http.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.ValueTuple.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\vbc.exe
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\vbc.exe.config
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\vbc.rsp
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\Antlr3.Runtime.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\EntityFramework.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\EntityFramework.SqlServer.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\Newtonsoft.Json.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\System.Web.Helpers.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\System.Web.Mvc.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\System.Web.Optimization.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\System.Web.Razor.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\System.Web.WebPages.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\System.Web.WebPages.Razor.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\WebGrease.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\EntityFramework.xml
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\EntityFramework.SqlServer.xml
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\System.Web.Helpers.xml
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\System.Web.Mvc.xml
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\System.Web.Optimization.xml
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\System.Web.Razor.xml
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\System.Web.WebPages.xml
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\System.Web.WebPages.Razor.xml
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\Newtonsoft.Json.xml
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\Antlr3.Runtime.pdb
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\es\System.Web.Helpers.resources.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\es\System.Web.Mvc.resources.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\es\System.Web.Optimization.resources.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\es\System.Web.Razor.resources.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\es\System.Web.WebPages.resources.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.AssemblyReference.cache
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.CoreCompileInputs.cache
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.CopyComplete
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\obj\Debug\MVCCrud.dll
+C:\Users\usuar\OneDrive\Pictures\MVCCrud\MVCCrud\obj\Debug\MVCCrud.pdb
